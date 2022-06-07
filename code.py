@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
-# Created by: Rodas Nega
-# Created on: Oct 2021
+# Created by: Noah McCaskill
+# Created on: June 2022
 # This will display the "space aliens" program on EdgeBadge
 
 import ugame
